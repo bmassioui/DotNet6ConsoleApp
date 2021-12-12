@@ -1,0 +1,15 @@
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/DotNet.Docker
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/DotNet.Docker.deps.json
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/DotNet.Docker.runtimeconfig.json
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/DotNet.Docker.dll
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/ref/DotNet.Docker.dll
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/DotNet.Docker.pdb
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.csproj.AssemblyReference.cache
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.AssemblyInfo.cs
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.dll
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/ref/DotNet.Docker.dll
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.pdb
+/home/bob/Desktop/DotNet6ConsoleApp/obj/Release/net6.0/DotNet.Docker.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/publish/DotNet.Docker
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/publish/DotNet.Docker.dll
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/publish/DotNet.Docker.deps.json
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/publish/DotNet.Docker.runtimeconfig.json
+/home/bob/Desktop/DotNet6ConsoleApp/bin/Release/net6.0/publish/DotNet.Docker.pdb
